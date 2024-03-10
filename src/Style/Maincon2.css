@@ -1,0 +1,35 @@
+.maincon2_container{
+    height:auto;
+    /* border:2px solid black; */
+    padding: 1rem;
+
+}
+.about_headingclass{
+    font-weight:600;
+}
+.about_headingclass span{
+    color:rgb(21, 212, 237);
+}
+.about_paraclass{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+}
+.about_paraclass_subcon1{
+    width: 38rem;
+    padding-left :3rem;
+    padding-top :3rem;
+    text-align: left;
+    height:auto; 
+    /* border:2px solid black ; */
+
+}
+.about_paraclass_subcon2{
+    width: 30rem;
+    height:auto; 
+    /* border: 2px solid red; */
+
+    /* background:url("../Image/logo.JPEG"); */
+}
